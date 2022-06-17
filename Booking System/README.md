@@ -12,13 +12,13 @@ He can also see the rating for each hotel and the prices according to what he is
           rooms, types of rooms and some information about them...etc.
 
 ## What the system Consists of: 
-•	Guest Table: Here is all about the user, including complete data about him, and so on.
+- Guest Table: Here is all about the user, including complete data about him, and so on.
 Also has a child table for the phones he/she has (GuestPhone)
-•	Bill Table: What is related to financial payments from bills and the payment method that belongs to the user/guest. 
+- Bill Table: What is related to financial payments from bills and the payment method that belongs to the user/guest. 
 Also has a child table for the type of payment (pay _ type)
-•	Booking Table: I call it “The Master table” ^~^
+- Booking Table: I call it “The Master table” ^~^
 Because it contains information about the user, what he did, in what period the reservation was made, the number of rooms that were booked, and the number of individuals whether adults or children
-•	Hotels Table: The hotel table and any information characteristics related to the hotel.
-•	Rooms Table: It has all the rooms of all hotels linked to a specific hotel and also has all the information about the rooms from prices and so on.
-•	booked_rooms: The result of the relationship between booking table and rooms table.
-•	booked_hotel: The result of the relationship between booking table and hotels table.
+- Hotels Table: The hotel table and any information characteristics related to the hotel.
+- Rooms Table: It has all the rooms of all hotels linked to a specific hotel and also has all the information about the rooms from prices and so on.
+- booked_rooms: The result of the relationship between booking table and rooms table.
+- booked_hotel: The result of the relationship between booking table and hotels table.
