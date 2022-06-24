@@ -24,3 +24,5 @@ Because it contains information about the user, what he did, in what period the 
 - booked_hotel: The result of the relationship between booking table and hotels table.
 
 ## System Diagram:
+![6](https://user-images.githubusercontent.com/37305730/175664236-13ff9be0-41c2-4c5f-bbda-b70b6ce3c92c.PNG)
+
