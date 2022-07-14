@@ -26,3 +26,7 @@ Because it contains information about the user, what he did, in what period the 
 ## System Diagram:
 ![6](https://user-images.githubusercontent.com/37305730/175664236-13ff9be0-41c2-4c5f-bbda-b70b6ce3c92c.PNG)
 
+## Loading the data (Ex: Fact Table)
+![بطلللللل](https://user-images.githubusercontent.com/37305730/179095783-ead438ba-5fe5-45fb-b276-bec08567e3ae.PNG)
+
+
